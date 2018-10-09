@@ -21,4 +21,6 @@ Set the class of your UIButton to `UIActivityButton`. In the options you can sel
     [yourButton showLoading];   // Hides button title, button image, and deletes UIEdgeInsets
     [yourButton hideLoading];   // Hides activity indicator and restores previous title, image and UIEdgeInsets
     
+*NOTE:* You can use the button as a normal UIButton in code or storyboard.
+    
 So easy!
