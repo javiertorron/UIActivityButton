@@ -8,7 +8,7 @@ Copy both .m and .h files into your project and import it where you want to use:
     
 You have 2 options.
 
-### Storyborad use:
+### Storyboard use:
 Set the class of your UIButton to `UIActivityButton`. In the options you can select Spinner Color for changing the Activity Indicator color.
 
 ### Programmatically:
