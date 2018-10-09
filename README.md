@@ -1,4 +1,4 @@
-# UIAcitivityButton
+# UIActivityButton
 Are you looking for how to put a Activity Indicator inside a button? UIActivityButton fits for you It is like a normal UIButton, but implements two selectors for showing and hiding the loader. Stop showing indicators in your view, and show it ondirectly on your download/send/connect... button.
 
 ## How To Use
